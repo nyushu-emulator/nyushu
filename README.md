@@ -1,6 +1,6 @@
 # 🎮 Nyushu Switch Emulator
 
-**Nyushu** is a high-performance Nintendo Switch emulator for Android devices, built to run commercial titles smoothly on ARM-powered phones and tablets.
+**Nyushu** is a high-performance [Nintendo Switch emulator for Android](https://nyushu.online/) devices, built to run commercial titles smoothly on ARM-powered phones and tablets.
 
 ---
 
